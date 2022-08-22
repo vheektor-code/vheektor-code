@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vheektor-code
+- 👀 I’m interested in learning programming with respect to quantum
+- 🌱 I’m currently learning web basics
+- 💞️ I’m looking to collaborate on on computational chemistry
+- 📫 contact me on: +2348166440377
